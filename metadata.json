@@ -1,0 +1,6 @@
+{
+  "name": "Maleta da Fono Infantil",
+  "description": "+200 recursos prontos para fono infantil: 41 documentos editáveis em Word, app que monta relatórios a partir da avaliação e 100 tarefas de casa ilustradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
